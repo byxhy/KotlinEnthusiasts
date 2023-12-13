@@ -11,24 +11,24 @@ Practice Kotlin skill stack for Android development
 - `2023-12-13 00:23:08`
 
 - Download IntelliJ for Mac
-![IntelliJ IDEA Community Edition](assert/ch01_01_img/image-0.png)
+![IntelliJ IDEA Community Edition](assert/ch01_02_img/image-0.png)
 
 - Install IntelliJ on Mac
-![Installation](assert/ch01_01_img/image-1.png)
+![Installation](assert/ch01_02_img/image-1.png)
 
 - Open and create a Kotlin project
-![Create](assert/ch01_01_img/image-2.png)
+![Create](assert/ch01_02_img/image-2.png)
 
 - Fix some issues and follow the tips provided IntelliJ
-![Open](assert/ch01_01_img/image-3.png)
+![Open](assert/ch01_02_img/image-3.png)
 
 - Try some use cases
-![Try](assert/ch01_01_img/image-4.png)
+![Try](assert/ch01_02_img/image-4.png)
 
 
 
 ## Chapter 3. Variables and Data Types in Kotlin
-![Data](image.png)
+![Data](assert/ch03_img/image-0.png)
 
 
 - var vs val
