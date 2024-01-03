@@ -1,15 +1,14 @@
-# KotlinEnthusiasts
+# Kotlin enthusiasts
 Practice Kotlin skill stack for Android development
 
 
-
-# Learing source
+## Learing source
 [Kotlin Programming Full Tutorial 2023 | 4+ Hours Android App Development Project & Course | @SCALER](https://www.youtube.com/watch?v=0MdkXBssRRg)
 
 
 ## Chapter 1&2. Introduction to Kotlin and development environment construction
 ![Alt text](assert/ch01_02_img/kotlin.png)
-[Kotin offcial website](https://kotlinlang.org)
+[Kotlin offcial website](https://kotlinlang.org)
 
 <details>
   <summary>Details</summary>
