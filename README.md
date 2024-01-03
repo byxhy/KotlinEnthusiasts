@@ -8,44 +8,65 @@ Practice Kotlin skill stack for Android development
 
 
 ## Chapter 1&2. Introduction to Kotlin and development environment construction
-- `2023-12-13 00:23:08`
+![Alt text](assert/ch01_02_img/kotlin.png)
+[Kotin offcial website](https://kotlinlang.org)
 
-- Download IntelliJ for Mac
-![IntelliJ IDEA Community Edition](assert/ch01_02_img/image-0.png)
+<details>
+  <summary>Details</summary>
 
-- Install IntelliJ on Mac
-![Installation](assert/ch01_02_img/image-1.png)
+  `2023-12-13 00:23:08`
 
-- Open and create a Kotlin project
-![Create](assert/ch01_02_img/image-2.png)
+  Step 1. Download IntelliJ IDE for Mac
+  ![IntelliJ IDEA Community Edition](assert/ch01_02_img/image-0.png)
 
-- Fix some issues and follow the tips provided IntelliJ
-![Open](assert/ch01_02_img/image-3.png)
+  Step 2. Install IntelliJ IDE on Mac
+  ![Installation](assert/ch01_02_img/image-1.png)
 
-- Try some use cases
-![Try](assert/ch01_02_img/image-4.png)
+  Step 3. Open and create a Kotlin project
+  ![Create](assert/ch01_02_img/image-2.png)
 
+  Step 4. Fix some issues and follow the tips provided by IntelliJ
+  ![Open](assert/ch01_02_img/image-3.png)
+
+  Step 5. Try some other use cases
+  ![Try](assert/ch01_02_img/image-4.png)
+
+</details>
 
 
 ## Chapter 3. Variables and Data Types in Kotlin
 ![Data](assert/ch03_img/image-0.png)
 
 
-- var vs val
-- data types
-    - give the data type
-- operators
+<details>
+  <summary>Details</summary>
 
-- print vs println
+```
+  - var vs val
+  - data types
+  - give the data type
+  - operators
 
-- ++a / a++
+  - print vs println
 
-- print(a++)
-- print(a)
+  - ++a / a++
+
+  - print(a++)
+  - print(a)
 
 
-- print(++a)
-- print(a)
+  - print(++a)
+  - print(a)
 
-- print(++a++)
-- print(a)
+  - print(++a++)
+  - print(a)
+  ```
+</details>
+
+```
+Reorganize the repository.
+Do some smalle things you can control.
+2024-01-04 00:59:18
+```
+
+
