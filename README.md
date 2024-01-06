@@ -7,7 +7,7 @@ Practice Kotlin skill stack for Android development
 - [Kotlin Official Docs](https://kotlinlang.org/docs/home.html)
 
 ## Chapter 1 - Get started with Kotlin
-![Alt text](assert/ch01_02_img/kotlin.png)
+![Alt text](assert/ch01_img/kotlin.png)
 [Kotlin offcial website](https://kotlinlang.org)
 
 <details>
